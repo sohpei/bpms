@@ -3,6 +3,7 @@
 **Code and data for the paper:**  
 *The Language of Interoception: Examining Embodiment and Emotions Through a Corpus of Body Part Mentions*  
 (Wu, Wahle, & Mohammad, EMNLP Findings 2025, Suzhou, China)
+[The full paper can be found here](https://aclanthology.org/2025.findings-emnlp.1269/)
 
 ---
 
@@ -74,4 +75,5 @@ Jan P. Wahle – University of Göttingen
 Saif M. Mohammad – National Research Council Canada
 
 For any queries, contact:
-📧 sophie.wu@mail.mcgill.ca
+sophie.wu(@)mail.mcgill.ca
+uvgotsaif(@)gmail.com
