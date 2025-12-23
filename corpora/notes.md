@@ -1,0 +1,1 @@
+Please e-mail the authors for full access to the blog sentence/tweet corpora.
